@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/modules/!svn/ver/2751/Tool/metadata
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/modules/!svn/ver/2751/Tool/metadata/messages_es.properties
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/modules/!svn/ver/2751/Tool/metadata/messages_fr.properties
+END
+moduleApplicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/modules/!svn/ver/2751/Tool/metadata/moduleApplicationContext.xml
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/modules/!svn/ver/2751/Tool/metadata/messages.properties
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/modules/!svn/ver/2752/Tool/metadata/config.xml
+END
+sqldiff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/modules/!svn/ver/2751/Tool/metadata/sqldiff.xml
+END
